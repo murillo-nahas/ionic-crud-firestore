@@ -1,0 +1,7 @@
+{
+  "name": "ideapool",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
