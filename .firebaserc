@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ideapool-15a64": {
+      "hosting": {
+        "app": [
+          "ideapool-15a64"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ideapool-15a64"
+  }
+}
